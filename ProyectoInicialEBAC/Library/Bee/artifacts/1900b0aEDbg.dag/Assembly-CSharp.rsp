@@ -355,6 +355,7 @@
 "Assets/Scripts/Componente2.cs"
 "Assets/Scripts/Componente3.cs"
 "Assets/Scripts/CrearCuboDesdeCero.cs"
+"Assets/Scripts/CubeSpawner.cs"
 "Assets/Scripts/HolaMundo.cs"
 -langversion:9.0
 
